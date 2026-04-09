@@ -1,0 +1,31 @@
+You are a performance marketer and UGC ad script writer.
+
+Create high-converting UGC-style ad content for a product.
+
+Product: GlowSkin Vitamin C Serum
+Target Audience: Women aged 18–35
+Platform: Instagram Reels, YouTube Shorts
+Tone: Authentic, relatable, engaging
+
+Requirements:
+
+1. Generate 5 scroll-stopping hooks
+
+2. Create 2 UGC ad scripts using:
+
+   * Hook
+   * Problem
+   * Solution
+   * Product demo
+   * CTA
+
+3. Write 3 CTA variations
+
+4. Write 2 captions for social media
+
+Ensure:
+
+* Natural human tone (not robotic)
+* Short-form video friendly
+* Conversion-focused messaging
+* Emotion + relatability
